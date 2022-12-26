@@ -1,0 +1,604 @@
+*{
+    /* padding: 0; */
+    margin: 0;
+    
+}
+.container{
+    /* display: flex; */
+    /* flex-direction: column; */
+    height: 850vh;
+}
+    
+    .top{
+        position: absolute;
+        background-color:#191919;
+        height: 50px;
+        width: 100%;
+        
+        
+        
+    
+        
+    }
+   
+    
+    .EmailLogo{
+        
+    color: white;
+    margin-top: -4px;
+    margin-left: 85px;
+    
+    }
+    .lbl_email
+    {
+        
+        /* margin-top: 0; */
+        color: white;
+        
+        /* padding-top: 0; */
+        text-decoration: none;
+        
+    }
+    .lbl-phone{
+        color: white;
+        text-decoration: none;
+       
+    }
+    .logo-phone{
+        margin-top: -3px;
+        margin-right: 4px;
+    }
+
+    
+    
+    
+    ul{
+        display: flex;
+        flex-direction: row;
+        position: absolute;
+        /* justify-content: center */
+        margin-left: 61px;
+        top: 15px;
+        list-style: none;
+
+    }
+    .fb2-logo
+    {
+        margin-left: 413px;
+        width: 9px;
+        height: 20px;
+           
+    }
+    .twitter-logo
+    {
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .youtube-logo{
+        margin-left: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    .instagram-logo{
+        margin-left: 10px;
+        
+    }
+    .btn-TryDemo{
+        margin-top:-11px;
+        background-color: #F2B81A;
+        color: white;
+        border-radius: 121px;
+        height: 32px;
+        width: 109px;
+        margin-left: 30px;
+    }
+    
+    .logo{
+        margin-top: -12px;
+        margin-left: 71px;
+        margin-right: 94px;
+    }
+    .top-nav{
+        background-color: white;
+        height: 81px;
+        width: 100%;
+        position: absolute;
+        top: 50px;
+
+    }
+    .nav{
+        margin-top: 15px;
+       
+    }
+    .lbl-home
+    {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-right: 20px;
+        font-size: 18px;
+    }
+    
+    .banner
+    {
+        position: absolute;
+        top: 140px;
+        width: 100%;
+    }
+    .lbl-header{
+        text-align: center;
+        color: #4e4e4e;
+        position: absolute;
+        top: 835px;
+        width: 100%;
+        font-weight:600 ;
+        font-size: 20px;
+        font-family: 'Heebo', sans-serif;
+    }
+    .table{
+        position: absolute;
+        top: 1000px;
+        width: auto;
+        height: auto;
+    }
+    .shop-list
+    {
+        position:absolute;
+        margin-left: 28px;
+        top: 124vh;
+        text-align: center;
+
+    }
+    .img{
+       /* align-items: center; */
+       margin-left: 158px;
+    }
+    .shop-ul
+    {
+        margin-left: 1px;
+    }
+    .img-text{
+       margin-left: 154px;
+       font-family: 'Heebo', sans-serif;
+       color: #606060;
+       font-weight: 600;
+    }
+    .company-profile{
+        position:absolute;
+        top: 150vh;
+        width: 100%;
+        height: 600px;
+        background-color: #F5F6FE;
+    }
+    .about-background{
+        margin-left: 20px;
+        margin-top: 25px;
+    }
+    .LEADING{
+        margin-top: -430px;
+        font-family: 'Heebo', sans-serif;
+        color: #606060;
+       font-weight: 600;
+       margin-left: 180px;
+       
+    }
+    .p{
+        
+        margin-block-start: 1em;
+        margin-inline-start: 180px;
+        margin-inline-end: 700px;
+        font-size: 18px;
+        font-family: 'Heebo', sans-serif;
+       color: #606060;
+       line-height: 2;
+       text-indent:1px;
+       text-align: justify;
+        
+    }
+    .download-company-profile{
+        width:230px ;
+        height: 48px;
+        margin-left: 178px;
+        margin-top: 35px;
+        background-color: #2D79CE;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-family: 'Heebo', sans-serif;
+        font-size: 15px;
+    }
+    .v1{
+        margin-left: 450px;
+        margin-top: -450px;
+        width: 560px;
+        height: 350px;
+    }
+    .div3{
+        position:absolute;
+        top: 240vh;
+    }
+    .header3{
+        width: 100%;
+        margin-left: 630px;
+        margin-top: 60px;
+        font-family: 'Heebo', sans-serif;
+        color: #606060;
+    }
+    .line{
+        margin-left: 690px;
+        font-weight: 26000px;
+        color: #FF9900;
+        
+    }
+    .product-box{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 265vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 100px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+    }
+    .product-box1{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 265vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 760px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+    }
+    .product-box2{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 373vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 100px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+    }
+    .product-box3{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 373vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 760px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+    }
+    .product-box4{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 480vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 100px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+    }
+    .product-box5{
+        width: 555px;
+        height: 675px;
+        background-color: white;
+        position:absolute;
+        top: 480vh;
+        padding: 20px 35px;
+        border: none;
+        margin-left: 760px;
+        box-shadow: 0px 0px 14px #dbdbdb;
+        text-align: center;
+
+    }
+    .p1{
+        text-align: justify;
+        font-size: 18px;
+        font-family: 'Heebo', sans-serif;
+       color: #606060;
+       line-height: 2;
+       text-indent:1px;
+    }
+    .our-header{
+        font-family: 'Heebo', sans-serif;
+        font-weight: bold;
+    }
+    .our-arrow{
+        margin-left: 300px;
+        margin-top: 45px;
+    }
+    .readme{
+        margin-left: 8px;
+      
+    }
+    .btn-playstore{
+        margin-top: 80px;
+    }
+    .before-clients{
+        position:absolute;
+        top: 592vh;
+        width: 100%;
+        height: 250px;
+        
+    }
+    .bk{
+        height: 250px;
+        width: 100%;
+    }
+    .bc-image{
+        margin-left: 80px;
+        margin-top: 30px;
+        
+       
+    }
+    .bc-txt{
+        margin-left: 60px;
+        color: white;
+        text-align: center;
+        width: 10;
+    }
+   .wp{
+    position:fixed;
+    bottom: 30px;
+    left: 1410px;
+    
+   }
+   .wp-image{
+    width: 80px;
+
+   }
+   .our-clients{
+    position:absolute;
+        top: 630vh;
+        width: 100%;
+        text-align: center;
+        font-family: 'Heebo', sans-serif;
+        font-weight: 600;
+        font-size: 23px;
+        padding-top: 20px;
+        color: #4e4e4e;
+
+   }
+   .line2{
+    position:absolute;
+    top: 635vh;
+    margin-left: 720px;
+    font-weight: 26000px;
+    color: #FF9900;
+   }
+   .clients{
+    margin: 50px;
+
+    position:absolute;
+    top: 635vh;
+    /* background-color: #e13131; */
+    width: 90%;
+    height: 150px;
+
+   }
+   .client-img{
+    width: 160px;
+    height: 100px;
+    margin-left: 70px;
+    box-shadow: 0px 0px 14px #dbdbdb;
+    
+   }
+   .after-clients{
+    position:absolute;
+    top: 665vh;
+    width: 100%;
+    height: 515px;
+    background-color: #F6F7FF;
+   }
+   .after-clients h3{
+    color: #4e4e4e;
+    font-weight: 600px;
+    font-size: 25px;
+    font-family: 'Heebo', sans-serif;
+    margin-top: 80px;
+    margin-left: 160px;
+   }
+   .after-clients h2{
+    
+    margin-left: 163px;
+    font-weight: 900px;
+    color: #FF9900;
+   }
+   .after-clients img{
+    margin-top: 30px;
+    margin-left: 163px;
+    border-radius: 60px;
+   }
+   .after-clients p{
+    width: 800px;
+    font-size: 20px;
+    margin-top: -105px;
+    margin-left: 330px;
+    color: #606060;
+    font-weight: 600px;
+   }
+   #person-name{
+    
+    margin-left: 330px;
+    margin-top: 20px;
+    color: #4e4e4e;
+    font-weight: lighter;
+   }
+   #p2{
+    margin-top: 19px;
+    color:#4B4A72 ;
+   }
+   #img2{
+    border-radius: 0%;
+    width: 650px;
+    margin-left: 810px;
+    margin-top: -250px;
+   }
+   .footer-contact{
+    position:absolute;
+    top: 730vh;
+    height: 1000px;
+   }
+   .footer-bck{
+   height: 950px;
+   }
+   .footer-contact H2{
+    margin-top: -800PX;
+    margin-left: 200px;
+    color: whitesmoke;
+    font-family: 'Heebo', sans-serif;
+   }
+   .footer-contact h3{
+   margin-top: -450px;
+    margin-left: 200px;
+    color: whitesmoke;
+    font-family: 'Heebo', sans-serif;
+    line-height: 40px;
+    width: 180px;
+    font-weight: lighter;
+   }
+   .footer-contact h1{
+    color: whitesmoke;
+    font-family: 'Heebo', sans-serif;
+    margin-left: 200px;
+    font-size: 25px;
+    margin-top: 30px;
+   }
+   .footer-contact a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Heebo', sans-serif;
+    margin-left: 200px;
+    font-size: 55px;
+    margin-top: 40px;
+    font-weight: bolder;
+   }
+   .message1{
+    background-color: transparent;
+    border-radius: 6px ;
+    border-color: white;
+    width: 587px;
+    height: 50px;
+    margin-left: 773px;
+    margin-bottom: 10px;
+    display: inline;
+    
+   }
+   .optn{
+    background-color: transparent;
+    border-radius: 6px ;
+    border-color: white;
+    color: white;
+    text-emphasis-color: rgb(193, 35, 35);
+    width: 587px;
+    height: 50px;
+    margin-left: 773px;
+    margin-bottom: 10px;
+    
+   }
+   ::placeholder{
+    font-size: 18px;
+    color: white;
+   }
+   .cap{
+    margin-left: 773px;
+    width: 320px;
+   }
+   .send-message{
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    width: 175px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: white;
+    margin-left: 773px;
+    margin-top: 10px;
+
+   }
+   .footer{
+    width: 100%;
+    height: 300px;
+    background-color: #fafbfd;
+    position:absolute;
+    top: 835vh;
+   }
+   .footer img
+   {
+    margin-left: 152px;
+    margin-top: 35px;
+   }
+   .footer h4
+   {
+    margin-left: 152px;
+    margin-top: 20px;
+    font-family: 'Heebo', sans-serif;
+    color: #2B6298;
+   }
+   .footer p{
+    width: 250px;
+    font-family: 'Heebo', sans-serif;
+    color:#4B4A72 ;
+    margin-left: 152px;
+    margin-top: 10px;
+   }
+  
+   .about{
+    position: absolute;
+    top: 50px;
+    font-family: 'Heebo', sans-serif;
+     color:#4B4A72 ;
+     font-weight: bolder;
+     font-size: 25px;
+     margin-left: 525px;
+     /* margin-top: -2325px; */
+
+   }
+   .p-s{
+    position: absolute;
+    top: 50px;
+    font-family: 'Heebo', sans-serif;
+     color:#4B4A72 ;
+     font-weight: bolder;
+     font-size: 25px;
+     margin-left: 725px;
+   }
+   .f-u{
+    position: absolute;
+    top: 50px;
+    font-family: 'Heebo', sans-serif;
+     color:#4B4A72 ;
+     font-weight: bolder;
+     font-size: 25px;
+     margin-left: 1090px;
+   }
+   .footer h6{
+    font-weight: lighter;
+    margin-top: 10px;
+   }
+   .footer img{
+    width: 180px;
+    
+   }
+   .f-social1{
+    position:absolute;
+    top: 850vh;
+    margin-left: 1065px;
+    margin-top: -20px;
+   }
+
+   
+
+
+    
